@@ -12,7 +12,7 @@
 	<style>
 
 	a:link {
-		color: black; 
+		color: purple; 
 		background-color: transparent; 
 		text decoration: none; 
 	} 
