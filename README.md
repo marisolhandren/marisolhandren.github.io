@@ -56,3 +56,8 @@
 	
 	<center><p>I am motivated and hardworking and over my years spent at the University of Maine those qualities have flourished even more throughout all the work
 	I've put into my classes and activities I'm involved in on campus. I love studying marketing   
+	
+	</body> 
+	
+	
+	</html>
