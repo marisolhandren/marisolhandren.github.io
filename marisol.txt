@@ -1,0 +1,50 @@
+	<!DOCTYPE html>
+
+	<html>
+
+
+	<head> 
+
+	<title>Marisol Handren-home</title> 
+
+
+
+	<style>
+
+	a:link {
+		color: black; 
+		background-color: transparent; 
+		text decoration: none; 
+	} 
+	a:visited { 
+		color:purple; 
+		background-color: transparent; 
+		text-decoration: none; 
+	} 
+	a:hover {
+		color: gray 
+		background-color: transparent; 
+		text-decoration: none; 
+	} 
+	a:active { 
+		color: purple; 
+		background-color: transparent; 
+		text-decoration: none; 
+	} 
+	
+	
+	</style> 
+	</head>
+	<body>
+	
+	<nav> 
+	<center> 
+	<b>Home</b> | <a href="experience.html">Experience</a> | <a href="activities.html">Activities</a> | <a href="contact.html">Contact</a> 
+	</center> 
+	</nav> 
+	
+	
+	</body>
+	</html> 
+	
+	<center><H1>Marisol Handren</H1></center>
