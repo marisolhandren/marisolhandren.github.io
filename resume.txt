@@ -23,7 +23,7 @@
 		text-decoration: none; 
 	} 
 	a:active { 
-		color: purple; 
+		color: black; 
 		background-color: transparent; 
 		text-decoration: none; 
 	} 
