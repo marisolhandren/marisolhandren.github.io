@@ -5,6 +5,9 @@
 
 	<title>Marisol Handren-experience</title> 
 
+	
+	
+	
 	<style>
 
 	a:link {
@@ -32,13 +35,22 @@
 	</style> 
 	</head>
 	<body>
+	
+	<nav>
 	<center> 
 	<a href="index.html">Home</a> | <b>Experience</b> | <a href="activities.html">Activities</a> | <a href="contact.html">Contact</a> 
 	</center> 
+	<nav>
 	
-	<center><h2>Experience</h2></center> 
+	
+	</body>
+	</html>
+	
+	<center><H2>Experience</H2></center> 
 	
 	<center><IMG SRC="experience.jpeg"></center>
 	
 	</body> 
+	
+	
 	</html>
